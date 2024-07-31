@@ -24,9 +24,3 @@ a Computer Science undergraduate student at Athens University of Economics and B
   <img src="https://cdn-icons-png.flaticon.com/128/5968/5968853.png" title="Gitlab" alt="Gitlab" width="40" height="40"/>&nbsp;
 </div>
 <br>
-
----
-
-### 📈 My Stats :
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SophiaPap&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
