@@ -28,10 +28,5 @@ a Computer Science undergraduate student at Athens University of Economics and B
 ---
 
 ### 📈 My Stats :
-![GitHub stats](https://github-readme-streak-stats.herokuapp.com?user=SophiaPap&theme=radical)
-
-![GitHub Streak](https://github-readme-stats.vercel.app/api?username=SophiaPap&rank_icon=github&theme=radical&layout=compact)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SophiaPap&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-<img src="https://komarev.com/ghpvc/?username=SophiaPap&style=flat-square&color=blue" alt=""/> 
